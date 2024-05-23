@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "987400162658",
+    "project_id": "watchncook-733c9",
+    "storage_bucket": "watchncook-733c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987400162658:android:7d678f09d5c856f481f03b",
+        "android_client_info": {
+          "package_name": "com.example.watchncook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987400162658-kvoubevf2h6ba9445898s7vbdfogquci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.watchncook",
+            "certificate_hash": "6e51adbddbf2cf67f7a6db6750c63ccd9cdc42f4"
+          }
+        },
+        {
+          "client_id": "987400162658-7sp0pphtbmh7mekj2gb66uaov5ohagd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KXLDfUSxy0bZIf1SNpx2U6y3Y9y0BBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987400162658-7sp0pphtbmh7mekj2gb66uaov5ohagd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987400162658-2vu57nc0n5q7aqpcsk49d6n2pu48s71h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.watchncookAdmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987400162658:android:41af564408c07d0881f03b",
+        "android_client_info": {
+          "package_name": "com.example.watchncook_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987400162658-7sp0pphtbmh7mekj2gb66uaov5ohagd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KXLDfUSxy0bZIf1SNpx2U6y3Y9y0BBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987400162658-7sp0pphtbmh7mekj2gb66uaov5ohagd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "987400162658-2vu57nc0n5q7aqpcsk49d6n2pu48s71h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.watchncookAdmin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
